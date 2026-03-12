@@ -41,7 +41,7 @@ from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_JUSTIFY
 # ---------------------------------------------------------------------------
 # CONFIG — edit these values before running
 # ---------------------------------------------------------------------------
-API_KEY         = "PASTE_YOUR_AMD_GATEWAY_KEY_HERE"
+API_KEY         = "9ab41e4a21354f34b4532c41024d1d2f"
 REPO_PATH       = r"C:\Users\lucasb\AI-Newsletter"   # Local path to your cloned repo
 OUTPUT_DIR      = Path(REPO_PATH) / "newsletters"
 GIT_REMOTE      = "origin"
